@@ -1,5 +1,4 @@
 # company-sales-analysis
-# bike-sales-analysis
  ## Project overview 
  ### this project aims to help company  to know company’s sales volume 
  ## Tools
