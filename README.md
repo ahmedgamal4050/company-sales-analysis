@@ -14,18 +14,21 @@
 ## Exploratory Data Analysis
 ### EDA involved exploring sales data to answer key question sush as 
 ### What is the total sales volum ?
-### What is the to total of unit sold ?
-### What is the total of Goods sold ?
+### What is the  total of unit sold ?
+### What is the total of cost of  Goods sold ?
 ### what is the total profit ?
 ### what is the precentage of profit ?
 ### What is the best-selling product?
 ###  What is the best-selling segment?
 ## Results 
 ### the analysis results are summarized  as
-### Women whose average yearly income is equal  62857 prefer to buy bicycles
-### Men whose average yearly income is equal 67857  prefer to buy bicycles 
-###  some of student and graduate d prefer to buy bicycles 
-### The percentage of single customers interested in buying bicycles is higher than the percentage of married customers
+### total sales =19.22m
+### total of unit sold =189.61k
+###  total cost of good sold =16m
+### total profit = 2.97 m
+### the precentage of proift =15.45%
+### the best selling product is paseo with 4.8m
+### the best selling segment is government 9m 
 
 
  
